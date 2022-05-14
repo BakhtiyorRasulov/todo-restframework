@@ -1,0 +1,5 @@
+*/__pycache__/*
+dba/migrations/*
+env/*
+db.sqlite3
+todo/.env
